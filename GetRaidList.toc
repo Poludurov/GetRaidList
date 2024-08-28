@@ -1,0 +1,7 @@
+﻿## Interface: 30300
+## Author: Poludurov
+## Notes: Names of raid members
+## Version: 1.0
+## Title: GetRaidList
+
+GetRaidList.lua
